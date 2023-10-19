@@ -1,0 +1,97 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Blue X V1 [BETA]", "DarkTheme")
+
+-- Tabs
+local Tab1 = Window:NewTab("Scripts")
+local Tab2 = Window:NewTab("Rex")
+local Tab3 = Window:NewTab("Rox")
+local Tab4 = Window:NewTab("creator")
+local Tab5 = Window:NewTab("Updates")
+
+-- Sections
+local Tab1Section = Tab1:NewSection("Scripts")
+local Tab2Section = Tab2:NewSection("Rex")
+local Tab3Section = Tab3:NewSection("Rox")
+local Tab4Section = Tab4:NewSection("The Blue")
+local Tab5Section = Tab5:NewSection("V1.1 [+]")
+
+-- Buttons
+Tab1Section:NewButton("Fly Gui V3", "???", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+Tab1Section:NewButton("Fly [ADMIN]", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/YvKv4AuY'),true))();
+end)
+
+Tab1Section:NewButton("infinite yield", "???", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Tab1Section:NewButton("Keyboard", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+Tab1Section:NewButton("Esp Mm2 👁️", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
+end)
+
+-- Tab2
+Tab2Section:NewButton("✈️✈️✈️", "???", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+Tab2Section:NewButton("✅✅✅", "???", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Tab2Section:NewButton("🏠🏠🏠", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+Tab2Section:NewButton("🧍🧍🧍", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/FE-Animation-Changer_217"))()
+end)
+
+Tab2Section:NewButton("💃💃💃", "???", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+end)
+
+Tab2Section:NewButton("🚗✈️", "???", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
+end)
+
+Tab2Section:NewButton("🏀🏀", "???", function()
+    _G.UI_Size = 200
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+end)
+
+-- Tab3
+Tab3Section:NewButton("✈️✈️✈️", "???", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+Tab3Section:NewButton("✅✅✅", "???", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Tab3Section:NewButton("🏠🏠🏠", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+Tab3Section:NewButton("🧍🧍🧍", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/FE-Animation-Changer_217"))()
+end)
+
+Tab3Section:NewButton("💃💃💃", "???", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+end)
+
+Tab3Section:NewButton("🚗✈️", "???", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
+end)
+
+Tab3Section:NewButton("🏀🏀", "???", function()
+    _G.UI_Size = 200
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+end)
