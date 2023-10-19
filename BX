@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("Blue X V1 [BETA]", "DarkTheme")
+local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
 local Tab1 = Window:NewTab("Scripts")
@@ -70,6 +70,10 @@ Tab2Section:NewButton("🕷️🕷️🕷️", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
 end)
 
+Tab2Section:NewButton("⌨️⌨️⌨️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -102,4 +106,8 @@ end)
 
 Tab3Section:NewButton("🕷️🕷️🕷️", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
+end)
+
+Tab3Section:NewButton("⌨️⌨️⌨️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
