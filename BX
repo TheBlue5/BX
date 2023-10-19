@@ -61,9 +61,13 @@ Tab2Section:NewButton("🚗✈️", "???", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
 end)
 
-Tab2Section:NewButton("🏀🏀", "???", function()
+Tab2Section:NewButton("🏀🗡️🏀", "???", function()
     _G.UI_Size = 200
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+end)
+
+Tab2Section:NewButton("🕷️🕷️🕷️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
 end)
 
 -- Tab3
@@ -91,7 +95,11 @@ Tab3Section:NewButton("🚗✈️", "???", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
 end)
 
-Tab3Section:NewButton("🏀🏀", "???", function()
+Tab3Section:NewButton("🏀🗡️🏀", "???", function()
     _G.UI_Size = 200
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+end)
+
+Tab3Section:NewButton("🕷️🕷️🕷️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
 end)
