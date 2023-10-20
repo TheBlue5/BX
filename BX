@@ -1,4 +1,6 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/5ru6dSMX'),true))()
+end)local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
@@ -110,4 +112,8 @@ end)
 
 Tab3Section:NewButton("⌨️⌨️⌨️", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+Tab3Section:NewButton("🏀🗡️🏀2", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/5ru6dSMX'),true))()
 end)
