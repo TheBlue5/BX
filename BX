@@ -1,8 +1,9 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+sercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
-local Tab1 = Window:NewTab("Scripts")
+local Tab1 = Window:NewTab("Blue 🥚")
 local Tab2 = Window:NewTab("Rex")
 local Tab3 = Window:NewTab("Rox")
 local Tab4 = Window:NewTab("creator")
@@ -34,6 +35,10 @@ end)
 
 Tab1Section:NewButton("Esp Mm2 👁️", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
+end)
+
+Tab1Section:NewButton("Evade️", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/BHQJMDQ7'),true))()
 end)
 
 -- Tab2
