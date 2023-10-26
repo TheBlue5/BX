@@ -36,7 +36,7 @@ Tab1Section:NewButton("Esp Mm2 👁️", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
 end)
 
-Tab1Section:NewButton("Evade️", "???", function()
+Tab1Section:NewButton("Evade️", "1883729119382837", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/BHQJMDQ7'),true))()
 end)
 
@@ -78,6 +78,10 @@ Tab2Section:NewButton("⌨️⌨️⌨️", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
+Tab2Section:NewButton("🔨🔨🔨", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
+
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -114,4 +118,8 @@ end)
 
 Tab3Section:NewButton("⌨️⌨️⌨️", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+Tab3Section:NewButton("🔨🔨🔨", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
 end)
