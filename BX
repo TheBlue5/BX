@@ -82,6 +82,10 @@ Tab2Section:NewButton("🔨🔨🔨", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
 end)
 
+Tab2Section:NewButton("🚗🚗🚗", "???", function()
+    loadstring(game:HttpGet("https://astronomic.vercel.app"))()
+end)
+
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -122,4 +126,8 @@ end)
 
 Tab3Section:NewButton("🔨🔨🔨", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
+
+Tab3Section:NewButton("🚗🚗🚗", "???", function()
+    loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 end)
