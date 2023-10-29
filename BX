@@ -86,6 +86,10 @@ Tab2Section:NewButton("🚗🚗🚗", "???", function()
     loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 end)
 
+Tab2Section:NewButton("⚪🔵", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Universal-Script-Permanent-Shift-Lock-6924"))()
+end)
+
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -130,4 +134,8 @@ end)
 
 Tab3Section:NewButton("🚗🚗🚗", "???", function()
     loadstring(game:HttpGet("https://astronomic.vercel.app"))()
+end)
+
+Tab3Section:NewButton("⚪🔵", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Universal-Script-Permanent-Shift-Lock-6924"))()
 end)
