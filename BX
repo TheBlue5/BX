@@ -3,15 +3,15 @@ local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
 local Tab1 = Window:NewTab("Blue 🥚")
-local Tab2 = Window:NewTab("Rex")
-local Tab3 = Window:NewTab("Rox")
+local Tab2 = Window:NewTab("Rex 🐢")
+local Tab3 = Window:NewTab("Rox 🦎")
 local Tab4 = Window:NewTab("creator")
 local Tab5 = Window:NewTab("Updates")
 
 -- Sections
 local Tab1Section = Tab1:NewSection("Scripts")
-local Tab2Section = Tab2:NewSection("Rex")
-local Tab3Section = Tab3:NewSection("Rox")
+local Tab2Section = Tab2:NewSection("Rex 🐢")
+local Tab3Section = Tab3:NewSection("Rox 🦎")
 local Tab4Section = Tab4:NewSection("The Blue")
 local Tab5Section = Tab5:NewSection("V1.1 [+]")
 
@@ -94,6 +94,14 @@ Tab2Section:NewButton("⬛⬛⬛ 40", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/tPpF4CEE'),true))()
 end)
 
+Tab2Section:NewButton("⬛⬛⬛ 60", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/vfHQMMHB'),true))()
+end)
+
+Tab2Section:NewButton("🧍🔫", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drrushh/Drrushh/main/Kdom",true))();
+end)
+
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -144,6 +152,14 @@ Tab3Section:NewButton("⚪🔵", "???", function()
     loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Universal-Script-Permanent-Shift-Lock-6924"))()
 end)
 
+Tab3Section:NewButton("⬛⬛⬛ 40", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/tPpF4CEE'),true))()
+end)
+
 Tab3Section:NewButton("⬛⬛⬛ 60", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/vfHQMMHB'),true))()
+end)
+
+Tab3Section:NewButton("🧍🔫", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drrushh/Drrushh/main/Kdom",true))();
 end)
