@@ -55,6 +55,10 @@ Tab2Section:NewButton("🏠🏠🏠", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
 end)
 
+Tab2Section:NewButton("🏠🏠🏠 2", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
+end)
+
 Tab2Section:NewButton("🧍🧍🧍", "???", function()
     loadstring(game:HttpGet("https://scriptblox.com/raw/FE-Animation-Changer_217"))()
 end)
@@ -115,6 +119,10 @@ end)
 
 Tab3Section:NewButton("🏠🏠🏠", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+Tab3Section:NewButton("🏠🏠🏠 2", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
 end)
 
 Tab3Section:NewButton("🧍🧍🧍", "???", function()
