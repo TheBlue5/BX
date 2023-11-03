@@ -178,3 +178,7 @@ end)
 Tab4Section:NewButton("Esp Mm2 👁️", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
 end)
+
+Tab4Section:NewButton("flee the facility", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
