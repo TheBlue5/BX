@@ -13,7 +13,7 @@ local Tab6 = Window:NewTab("Updates")
 local Tab1Section = Tab1:NewSection("Scripts")
 local Tab2Section = Tab2:NewSection("Rex 🐢")
 local Tab3Section = Tab3:NewSection("Rox 🦎")
-local Tab4Section = Tab4:NewSection("The Blue")
+local Tab4Section = Tab4:NewSection("Min hay")
 local Tab5Section = Tab5:NewSection("The Blue")
 local Tab6Section = Tab6:NewSection("V1.1 [+]")
 
