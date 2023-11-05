@@ -42,6 +42,10 @@ Tab1Section:NewButton("Evade️", "1883729119382837", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/BHQJMDQ7'),true))()
 end)
 
+Tab1Section:NewButton("zombie uprising [aimbot]", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/xXvv8xQY'),true))()
+end)
+
 -- Tab2
 Tab2Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
