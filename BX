@@ -35,15 +35,11 @@ Tab1Section:NewButton("Keyboard", "???", function()
 end)
 
 Tab1Section:NewButton("Esp Mm2 👁️", "???", function()
-    loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/Releases/main/MurderMystery2HighlightESP"))(' Watermelon ?')
 end)
 
 Tab1Section:NewButton("Evade️", "1883729119382837", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/BHQJMDQ7'),true))()
-end)
-
-Tab1Section:NewButton("zombie uprising [aimbot]", "???", function()
-    loadstring(game:HttpGet(('https://pastebin.com/raw/xXvv8xQY'),true))()
 end)
 
 -- Tab2
