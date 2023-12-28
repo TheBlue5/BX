@@ -1,19 +1,21 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("Blue X V1 [BETA]", "DarkTheme")
+local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
-local Tab1 = Window:NewTab("Scripts")
-local Tab2 = Window:NewTab("Rex")
-local Tab3 = Window:NewTab("Rox")
-local Tab4 = Window:NewTab("creator")
-local Tab5 = Window:NewTab("Updates")
+local Tab1 = Window:NewTab("Blue 🥚")
+local Tab2 = Window:NewTab("Rex 🐢")
+local Tab3 = Window:NewTab("Rox 🦎")
+local Tab4 = Window:NewTab("Min hay 🐱")
+local Tab5 = Window:NewTab("creator")
+local Tab6 = Window:NewTab("Updates")
 
 -- Sections
 local Tab1Section = Tab1:NewSection("Scripts")
-local Tab2Section = Tab2:NewSection("Rex")
-local Tab3Section = Tab3:NewSection("Rox")
-local Tab4Section = Tab4:NewSection("The Blue")
-local Tab5Section = Tab5:NewSection("V1.1 [+]")
+local Tab2Section = Tab2:NewSection("Rex 🐢")
+local Tab3Section = Tab3:NewSection("Rox 🦎")
+local Tab4Section = Tab4:NewSection("Min hay")
+local Tab5Section = Tab5:NewSection("The Blue")
+local Tab6Section = Tab6:NewSection("V1.1 [+]")
 
 -- Buttons
 Tab1Section:NewButton("Fly Gui V3", "???", function()
@@ -33,7 +35,15 @@ Tab1Section:NewButton("Keyboard", "???", function()
 end)
 
 Tab1Section:NewButton("Esp Mm2 👁️", "???", function()
-    loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/Releases/main/MurderMystery2HighlightESP"))(' Watermelon ?')
+end)
+
+Tab1Section:NewButton("Evade️", "1883729119382837", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/BHQJMDQ7'),true))()
+end)
+
+Tab1Section:NewButton("Vfly V4", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/ZgKQ0TEA'),true))()
 end)
 
 -- Tab2
@@ -49,6 +59,10 @@ Tab2Section:NewButton("🏠🏠🏠", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
 end)
 
+Tab2Section:NewButton("🏠🏠🏠 2", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
+end)
+
 Tab2Section:NewButton("🧍🧍🧍", "???", function()
     loadstring(game:HttpGet("https://scriptblox.com/raw/FE-Animation-Changer_217"))()
 end)
@@ -57,7 +71,7 @@ Tab2Section:NewButton("💃💃💃", "???", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
 end)
 
-Tab2Section:NewButton("🚗✈️", "???", function()
+Tab2Section:NewButton("2🚗✈️", "???", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
 end)
 
@@ -66,7 +80,43 @@ Tab2Section:NewButton("🏀🗡️🏀", "???", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
 end)
 
-Tab2Section:NewButton("🥊📦", "???", function()
+Tab2Section:NewButton("🕷️🕷️🕷️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
+end)
+
+Tab2Section:NewButton("⌨️⌨️⌨️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+Tab2Section:NewButton("🔨🔨🔨", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
+
+Tab2Section:NewButton("🚗🚗🚗", "???", function()
+    loadstring(game:HttpGet("https://astronomic.vercel.app"))()
+end)
+
+Tab2Section:NewButton("⚪🔵", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Universal-Script-Permanent-Shift-Lock-6924"))()
+end)
+
+Tab2Section:NewButton("⬛⬛⬛ 40", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/tPpF4CEE'),true))()
+end)
+
+Tab2Section:NewButton("⬛⬛⬛ 60", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/vfHQMMHB'),true))()
+end)
+
+Tab2Section:NewButton("🧍🔫", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drrushh/Drrushh/main/Kdom",true))();
+end)
+
+Tab2Section:NewButton("🚗✈️", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/ZgKQ0TEA'),true))()
+end)
+
+Tab3Section:NewButton("🥊📦", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/8TtPixUs'),true))()
 end)
 
@@ -81,6 +131,10 @@ end)
 
 Tab3Section:NewButton("🏠🏠🏠", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+Tab3Section:NewButton("🏠🏠🏠 2", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
 end)
 
 Tab3Section:NewButton("🧍🧍🧍", "???", function()
@@ -100,6 +154,59 @@ Tab3Section:NewButton("🏀🗡️🏀", "???", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
 end)
 
+Tab3Section:NewButton("🕷️🕷️🕷️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
+end)
+
+Tab3Section:NewButton("⌨️⌨️⌨️", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+Tab3Section:NewButton("🔨🔨🔨", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
+
+Tab3Section:NewButton("🚗🚗🚗", "???", function()
+    loadstring(game:HttpGet("https://astronomic.vercel.app"))()
+end)
+
+Tab3Section:NewButton("⚪🔵", "???", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Universal-Script-Permanent-Shift-Lock-6924"))()
+end)
+
+Tab3Section:NewButton("⬛⬛⬛ 40", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/tPpF4CEE'),true))()
+end)
+
+Tab3Section:NewButton("⬛⬛⬛ 60", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/vfHQMMHB'),true))()
+end)
+
+Tab3Section:NewButton("🧍🔫", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drrushh/Drrushh/main/Kdom",true))();
+end)
+
+Tab3Section:NewButton("2🚗✈️", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/ZgKQ0TEA'),true))()
+end)
+
 Tab3Section:NewButton("🥊📦", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/8TtPixUs'),true))()
+end)
+
+-- Tab4
+Tab4Section:NewButton("Fly Gui V3", "???", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+Tab4Section:NewButton("infinite yield [Speed]", "???", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Tab4Section:NewButton("Esp Mm2 👁️", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
+end)
+
+Tab4Section:NewButton("flee the facility", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
 end)
