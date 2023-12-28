@@ -116,7 +116,7 @@ Tab2Section:NewButton("🚗✈️", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/ZgKQ0TEA'),true))()
 end)
 
-Tab3Section:NewButton("🥊📦", "???", function()
+Tab2Section:NewButton("🥊📦", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/8TtPixUs'),true))()
 end)
 
