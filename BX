@@ -46,6 +46,10 @@ Tab1Section:NewButton("Vfly V4", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/ZgKQ0TEA'),true))()
 end)
 
+Tab1Section:NewButton("💀😭🐧", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/irlng/TheRakeRemastered/main/TheRake.lua"))()
+end)
+
 -- Tab2
 Tab2Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -120,6 +124,10 @@ Tab2Section:NewButton("🥊📦", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/8TtPixUs'),true))()
 end)
 
+Tab2Section:NewButton("💀😭🐧", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/irlng/TheRakeRemastered/main/TheRake.lua"))()
+end)
+
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -192,6 +200,10 @@ end)
 
 Tab3Section:NewButton("🥊📦", "???", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/8TtPixUs'),true))()
+end)
+
+Tab3Section:NewButton("💀😭🐧", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/irlng/TheRakeRemastered/main/TheRake.lua"))()
 end)
 
 -- Tab4
