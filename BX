@@ -47,7 +47,7 @@ Tab1Section:NewButton("Vfly V4", "???", function()
 end)
 
 Tab1Section:NewButton("💀😭🐧", "???", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/irlng/TheRakeRemastered/main/TheRake.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
 end)
 
 -- Tab2
@@ -125,7 +125,7 @@ Tab2Section:NewButton("🥊📦", "???", function()
 end)
 
 Tab2Section:NewButton("💀😭🐧", "???", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/irlng/TheRakeRemastered/main/TheRake.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
 end)
 
 -- Tab3
@@ -203,7 +203,7 @@ Tab3Section:NewButton("🥊📦", "???", function()
 end)
 
 Tab3Section:NewButton("💀😭🐧", "???", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/irlng/TheRakeRemastered/main/TheRake.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
 end)
 
 -- Tab4
