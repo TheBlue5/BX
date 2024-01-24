@@ -206,6 +206,10 @@ Tab3Section:NewButton("💀😭🐧", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
 end)
 
+Tab3Section:NewButton("🔪👁️🔪", "💙❤️💚💛", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/CMN1fPhw'),true))()
+end)
+
 -- Tab4
 Tab4Section:NewButton("Fly Gui V3", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
