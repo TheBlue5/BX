@@ -6,16 +6,18 @@ local Tab1 = Window:NewTab("Blue 🥚")
 local Tab2 = Window:NewTab("Rex 🐢")
 local Tab3 = Window:NewTab("Rox 🦎")
 local Tab4 = Window:NewTab("Min hay 🐱")
-local Tab5 = Window:NewTab("creator")
-local Tab6 = Window:NewTab("Updates")
+local Tab5 = Window:NewTab("Black Man🗿")
+local Tab6 = Window:NewTab("creator")
+local Tab7 = Window:NewTab("Updates")
 
 -- Sections
 local Tab1Section = Tab1:NewSection("Scripts")
 local Tab2Section = Tab2:NewSection("Rex 🐢")
 local Tab3Section = Tab3:NewSection("Rox 🦎")
 local Tab4Section = Tab4:NewSection("Min hay")
-local Tab5Section = Tab5:NewSection("The Blue")
-local Tab6Section = Tab6:NewSection("V1.1 [+]")
+local TabSection = Tab5:NewSection("Black Man, Everything you need is here, Good luck!!🗿")
+local Tab6Section = Tab6:NewSection("The Blue")
+local Tab7Section = Tab7:NewSection("V1.1 [+]")
 
 -- Buttons
 Tab1Section:NewButton("Fly Gui V3", "???", function()
@@ -220,9 +222,30 @@ Tab4Section:NewButton("infinite yield [Speed]", "???", function()
 end)
 
 Tab4Section:NewButton("Esp Mm2 👁️", "???", function()
-    loadstring(game:HttpGet(('https://pastebin.com/raw/z3ncH6bg'),true))()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/CMN1fPhw'),true))()
 end)
 
 Tab4Section:NewButton("flee the facility", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
+
+-- Tab5
+Tab5Section:NewButton("Fly Gui V3", "???", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+Tab45Section:NewButton("infinite yield [Speed]", "???", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Tab5Section:NewButton("Esp Mm2 👁️", "???", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/CMN1fPhw'),true))()
+end)
+
+Tab5Section:NewButton("flee the facility", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drifty96/ftfgui/main/ftfgui", true))()
+end)
+
+Tab5Section:NewButton("survive the killer", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
 end)
