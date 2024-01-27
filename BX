@@ -64,7 +64,7 @@ Tab2Section:NewButton("🏠🏠🏠", "???", function()
 end)
 
 Tab2Section:NewButton("🏠🏠🏠 2", "???", function()
-    loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
 end)
 
 Tab2Section:NewButton("🧍🧍🧍", "???", function()
@@ -142,7 +142,7 @@ Tab3Section:NewButton("🏠🏠🏠", "???", function()
 end)
 
 Tab3Section:NewButton("🏠🏠🏠 2", "???", function()
-    loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
 end)
 
 Tab3Section:NewButton("🧍🧍🧍", "???", function()
