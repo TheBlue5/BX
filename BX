@@ -15,7 +15,7 @@ local Tab1Section = Tab1:NewSection("Scripts")
 local Tab2Section = Tab2:NewSection("Rex 🐢")
 local Tab3Section = Tab3:NewSection("Rox 🦎")
 local Tab4Section = Tab4:NewSection("Min hay")
-local TabSection = Tab5:NewSection("Black Man, Everything you need is here, Good luck!!🗿")
+local Tab5Section = Tab5:NewSection("Black Man, Everything you need is here, Good luck!!🗿")
 local Tab6Section = Tab6:NewSection("The Blue")
 local Tab7Section = Tab7:NewSection("V1.1 [+]")
 
@@ -234,7 +234,7 @@ Tab5Section:NewButton("Fly Gui V3", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
 end)
 
-Tab45Section:NewButton("infinite yield [Speed]", "???", function()
+Tab5Section:NewButton("infinite yield [Speed]", "???", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
