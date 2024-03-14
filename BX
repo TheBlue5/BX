@@ -52,6 +52,14 @@ Tab1Section:NewButton("💀😭🐧", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
 end)
 
+Tab1Section:NewButton("Rake 💀", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
+end)
+
+Tab1Section:NewButton("Fling speed 🥏", "???", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/r97d7dS0', true))()
+end)
+
 -- Tab2
 Tab2Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
