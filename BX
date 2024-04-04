@@ -60,6 +60,13 @@ Tab1Section:NewButton("Fling speed 🥏", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/r97d7dS0', true))()
 end)
 
+Tab1Section:NewButton("A DUSTY TRIP FULL BRING", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/trip/main/dusty"))()
+end)
+
+Tab1Section:NewButton("A DUSTY TRIP", "???", function()
+    https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua
+
 -- Tab2
 Tab2Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
@@ -136,6 +143,14 @@ end)
 
 Tab2Section:NewButton("💀😭🐧", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
+end)
+
+Tab2Section:NewButton("🚗🔦🔦💡", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/trip/main/dusty"))()
+end)
+
+Tab2Section:NewButton("🚗🚗🥪🌮🌭🌯", "???", function()
+    https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua
 end)
 
 -- Tab3
@@ -218,6 +233,14 @@ end)
 
 Tab3Section:NewButton("🔪👁️🔪", "💙❤️💚💛", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/CMN1fPhw'),true))()
+end)
+
+Tab2Section:NewButton("🚗🔦🔦💡", "???", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/trip/main/dusty"))()
+end)
+
+Tab2Section:NewButton("🚗🚗🥪🌮🌭🌯", "???", function()
+    https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua
 end)
 
 -- Tab4
