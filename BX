@@ -138,14 +138,6 @@ Tab2Section:NewButton("💀😭🐧", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
 end)
 
-Tab2Section:NewButton("🚗🔦🔦💡", "???", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/trip/main/dusty"))()
-end)
-
-Tab2Section:NewButton("🚗🚗🥪🌮🌭🌯", "???", function()
-    https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua
-end)
-
 -- Tab3
 Tab3Section:NewButton("✈️✈️✈️", "???", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
