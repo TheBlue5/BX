@@ -235,11 +235,11 @@ Tab3Section:NewButton("🔪👁️🔪", "💙❤️💚💛", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/CMN1fPhw'),true))()
 end)
 
-Tab2Section:NewButton("🚗🔦🔦💡", "???", function()
+Tab3Section:NewButton("🚗🔦🔦💡", "???", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/trip/main/dusty"))()
 end)
 
-Tab2Section:NewButton("🚗🚗🥪🌮🌭🌯", "???", function()
+Tab3Section:NewButton("🚗🚗🥪🌮🌭🌯", "???", function()
     https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua
 end)
 
