@@ -1,5 +1,4 @@
-ttps://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
-end)local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
