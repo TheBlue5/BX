@@ -1,4 +1,5 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+ttps://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
+end)local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("Blue X [BETA]", "DarkTheme")
 
 -- Tabs
@@ -70,7 +71,7 @@ Tab2Section:NewButton("✅✅✅", "???", function()
 end)
 
 Tab2Section:NewButton("🏠🏠🏠", "???", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
 end)
 
 Tab2Section:NewButton("🏠🏠🏠 2", "???", function()
@@ -148,7 +149,7 @@ Tab3Section:NewButton("✅✅✅", "???", function()
 end)
 
 Tab3Section:NewButton("🏠🏠🏠", "???", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
 end)
 
 Tab3Section:NewButton("🏠🏠🏠 2", "???", function()
